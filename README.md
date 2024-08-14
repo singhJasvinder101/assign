@@ -58,7 +58,7 @@ Follow the steps below to set up the project on your local machine:
    PORT=5000
    ```
 
-   - `PORT`: The port on which the server will run (default is 5000).
+   - `PORT`: The port on which the server will run (default is 3000).
 
 ## Usage
 
